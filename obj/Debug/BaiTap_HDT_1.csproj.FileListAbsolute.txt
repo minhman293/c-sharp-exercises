@@ -1,0 +1,7 @@
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\bin\Debug\BaiTap_HDT_1.exe.config
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\bin\Debug\BaiTap_HDT_1.exe
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\bin\Debug\BaiTap_HDT_1.pdb
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\obj\Debug\BaiTap_HDT_1.csproj.AssemblyReference.cache
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\obj\Debug\BaiTap_HDT_1.csproj.CoreCompileInputs.cache
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\obj\Debug\BaiTap_HDT_1.exe
+D:\UTE_CODE\C_sharp\BaiTap_HDT_1\obj\Debug\BaiTap_HDT_1.pdb
