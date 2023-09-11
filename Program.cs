@@ -11,13 +11,15 @@ namespace BAITAP_KETHUA
         static DanhSachNhanVien ds;
         static void Menu()
         {
-            Console.WriteLine("nhap 1 - 6 de chon chuc nang: ");
+            Console.WriteLine("nhap 1 - 8 de chon chuc nang: ");
             Console.WriteLine("1. nhap nhan vien");
             Console.WriteLine("2. xuat nhan vien");
             Console.WriteLine("3. tim nhan vien");
             Console.WriteLine("4. xoa nhan vien");
             Console.WriteLine("5. thong ke nhan vien");
             Console.WriteLine("6. tinh quy luong");
+            Console.WriteLine("7. ghi du lieu vao file");
+            Console.WriteLine("8. doc du lieu tu file");
             int chon = int.Parse(Console.ReadLine());
             switch (chon)
             {
@@ -49,6 +51,16 @@ namespace BAITAP_KETHUA
                 case 6:
                     {
                         ds.TongLuong();
+                        break;
+                    }
+                case 7:
+                    {
+                        ds.WriteFile();
+                        break;
+                    }
+                case 8:
+                    {
+                        ds.ReadFile();
                         break;
                     }
                 default:

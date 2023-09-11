@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DanhSachNhanVien.cs" />
+    <Compile Include="IInputOutput.cs" />
     <Compile Include="NhanVien.cs" />
     <Compile Include="NhanVienBienChe.cs" />
     <Compile Include="NhanVienHopDong.cs" />
@@ -52,6 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="danhsachnhanvien.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
